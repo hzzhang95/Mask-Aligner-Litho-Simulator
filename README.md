@@ -24,13 +24,7 @@ After setting up the conda environment, you can start the simulation by running 
 python "Mask Proximity.py"
 ```
 
-
----
-
-## 📄 `IDE.md`
-
-markdown
-# 💻 Recommended IDEs
+## 💻 Recommended IDEs
 
 For the best development and debugging experience, we recommend using one of the following integrated development environments:
 
