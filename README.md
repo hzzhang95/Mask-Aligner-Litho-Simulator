@@ -16,20 +16,20 @@ conda env create --file environment.yml
 conda activate ProximityLithoSimulator
 ```
 
-# 🚀 Usage
+## 🚀 Usage
 
 After setting up the conda environment, you can start the simulation by running the following command in the terminal:
 
 ```bash
 python "Mask Proximity.py"
-
+```
 
 
 ---
 
-### 📄 `IDE.md`
+## 📄 `IDE.md`
 
-```markdown
+markdown
 # 💻 Recommended IDEs
 
 For the best development and debugging experience, we recommend using one of the following integrated development environments:
