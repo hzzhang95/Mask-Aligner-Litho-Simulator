@@ -31,4 +31,4 @@ For the best development and debugging experience, we recommend using one of the
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Visual Studio Code (VSCode)](https://code.visualstudio.com/)
 
-Both IDEs support Python environments and offer powerful tools for code navigation, linting, and version control.
+Both IDEs support Python environments and offer powerful tools for editing codes
