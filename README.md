@@ -8,4 +8,5 @@ conda env create --file environment.yml
 conda activate ProximityLithoSimulator
 
 after installation, you can run the code by starting "Mask Proximity.py"
+
 Recommend IDE: PyCharm or VSCode
