@@ -1,14 +1,22 @@
 # Mask-Aligner-Litho-Simulator
-Modules for photolithography simulation for the Suss Microtech Mask Aligner (MA-6) using near field scalar diffraction theory. 
 
-### Need to install all the packages in the environment.yml for the software to use
-run the following command (need miniconda > 22.1)
+A photolithography simulation toolkit for the **Suss Microtech Mask Aligner (MA-6)**, using near-field scalar diffraction theory.
 
-``` {python}
+---
+
+## 📦 Installation
+
+Ensure you have **Miniconda version 22.1 or later** installed.
+
+1. Clone the repository and navigate to its directory.
+2. Run the following commands to create and activate the conda environment:
+
+```bash
 conda env create --file environment.yml
 conda activate ProximityLithoSimulator
 ```
 
-after installation, you can run the code by starting "Mask Proximity.py"
-
-Recommend IDE: PyCharm or VSCode
+Once the environment is activated, start the simulation by running:
+``` bash
+python "Mask Proximity.py"
+```
